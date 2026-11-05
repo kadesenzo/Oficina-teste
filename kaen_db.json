@@ -1,0 +1,675 @@
+{
+  "kaenpro_rafael_parts": [
+    {
+      "id": "part-01",
+      "name": "Óleo Sintético Motul 8100 X-cess 5W40 (1L)",
+      "sku": "MOT-5W40-1L",
+      "brand": "Motul",
+      "category": "Lubrificantes",
+      "costPrice": 58.00,
+      "salePrice": 98.00,
+      "stock": 28,
+      "minStock": 10
+    },
+    {
+      "id": "part-02",
+      "name": "Óleo Sintético Mobil Super 3000 5W30 (1L)",
+      "sku": "MOB-5W30-1L",
+      "brand": "Mobil",
+      "category": "Lubrificantes",
+      "costPrice": 42.00,
+      "salePrice": 74.00,
+      "stock": 34,
+      "minStock": 12
+    },
+    {
+      "id": "part-03",
+      "name": "Filtro de Óleo Blindado Mann W712/52",
+      "sku": "MAN-W712",
+      "brand": "Mann Filter",
+      "category": "Filtros",
+      "costPrice": 28.00,
+      "salePrice": 55.00,
+      "stock": 16,
+      "minStock": 6
+    },
+    {
+      "id": "part-04",
+      "name": "Filtro de Ar Motor Tecfil ARL-8830",
+      "sku": "TEC-ARL8830",
+      "brand": "Tecfil",
+      "category": "Filtros",
+      "costPrice": 32.00,
+      "salePrice": 68.00,
+      "stock": 12,
+      "minStock": 5
+    },
+    {
+      "id": "part-05",
+      "name": "Jogo Pastilhas de Freio Dianteira Brembo P85020",
+      "sku": "BRE-P85020",
+      "brand": "Brembo",
+      "category": "Freios",
+      "costPrice": 240.00,
+      "salePrice": 420.00,
+      "stock": 3,
+      "minStock": 5
+    },
+    {
+      "id": "part-06",
+      "name": "Disco de Freio Ventilado Fremax Diant. (Par)",
+      "sku": "FRX-BD4750",
+      "brand": "Fremax",
+      "category": "Freios",
+      "costPrice": 380.00,
+      "salePrice": 650.00,
+      "stock": 2,
+      "minStock": 4
+    },
+    {
+      "id": "part-07",
+      "name": "Jogo Velas de Ignição NGK Laser Iridium ILZKR7B",
+      "sku": "NGK-IRID-4X",
+      "brand": "NGK",
+      "category": "Ignição",
+      "costPrice": 195.00,
+      "salePrice": 360.00,
+      "stock": 9,
+      "minStock": 4
+    },
+    {
+      "id": "part-08",
+      "name": "Kit Correia Dentada + Tensor Gates PowerGrip",
+      "sku": "GAT-K015500",
+      "brand": "Gates",
+      "category": "Correias",
+      "costPrice": 290.00,
+      "salePrice": 510.00,
+      "stock": 5,
+      "minStock": 3
+    },
+    {
+      "id": "part-09",
+      "name": "Fluido de Freio Motul DOT 5.1 Sintético (500ml)",
+      "sku": "MOT-DOT51",
+      "brand": "Motul",
+      "category": "Fluidos",
+      "costPrice": 45.00,
+      "salePrice": 85.00,
+      "stock": 18,
+      "minStock": 6
+    },
+    {
+      "id": "part-10",
+      "name": "Aditivo Radiador Concentrado Orgânico Tirreno Rosa",
+      "sku": "TIR-ORG-1L",
+      "brand": "Tirreno",
+      "category": "Arrefecimento",
+      "costPrice": 26.00,
+      "salePrice": 52.00,
+      "stock": 22,
+      "minStock": 8
+    },
+    {
+      "id": "part-11",
+      "name": "Amortecedor Dianteiro Turbogás Cofap (Par)",
+      "sku": "COF-GP30120",
+      "brand": "Cofap",
+      "category": "Suspensão",
+      "costPrice": 540.00,
+      "salePrice": 920.00,
+      "stock": 2,
+      "minStock": 4
+    },
+    {
+      "id": "part-12",
+      "name": "Bomba d'Água Indisa com Rotor Metálico",
+      "sku": "IND-BA482",
+      "brand": "Indisa",
+      "category": "Arrefecimento",
+      "costPrice": 145.00,
+      "salePrice": 275.00,
+      "stock": 6,
+      "minStock": 3
+    }
+  ],
+  "kaenpro_rafael_employees": [
+    {
+      "id": "emp-01",
+      "name": "Rafael Kaen",
+      "role": "Chefe de Oficina / Master Tech",
+      "shift": "Diurno",
+      "services": 142,
+      "status": "Ativo",
+      "createdAt": "2024-01-10T08:00:00.000Z"
+    },
+    {
+      "id": "emp-02",
+      "name": "Eduardo Maciel",
+      "role": "Mecânico Sênior",
+      "shift": "Diurno",
+      "services": 98,
+      "status": "Ativo",
+      "createdAt": "2024-02-15T08:00:00.000Z"
+    },
+    {
+      "id": "emp-03",
+      "name": "Thiago Rover",
+      "role": "Mecânico Alinhamento & Suspensão",
+      "shift": "Diurno",
+      "services": 76,
+      "status": "Ativo",
+      "createdAt": "2024-03-01T08:00:00.000Z"
+    },
+    {
+      "id": "emp-04",
+      "name": "Janete Silva",
+      "role": "Recepção Técnica & Faturamento",
+      "shift": "Diurno",
+      "services": 184,
+      "status": "Ativo",
+      "createdAt": "2024-01-20T08:00:00.000Z"
+    },
+    {
+      "id": "emp-05",
+      "name": "Lucas Santos",
+      "role": "Auxiliar Técnico & Preparador",
+      "shift": "Diurno",
+      "services": 45,
+      "status": "Ativo",
+      "createdAt": "2024-04-10T08:00:00.000Z"
+    }
+  ],
+  "kaenpro_rafael_transactions": [
+    {
+      "id": "tr-01",
+      "type": "INCOME",
+      "category": "Serviços (Mão de Obra)",
+      "amount": 3200.00,
+      "method": "PIX",
+      "description": "OS #1042 - Freios Brembo + Discos Fremax - Audi A4",
+      "date": "2026-11-04T14:30:00.000Z"
+    },
+    {
+      "id": "tr-02",
+      "type": "INCOME",
+      "category": "Serviços (Mão de Obra)",
+      "amount": 4720.00,
+      "method": "Cartão de Crédito",
+      "description": "OS #1043 - Revisão Motor GTI + Velas Iridium - VW Golf",
+      "date": "2026-11-04T16:45:00.000Z"
+    },
+    {
+      "id": "tr-03",
+      "type": "INCOME",
+      "category": "Peças (Venda)",
+      "amount": 1850.00,
+      "method": "PIX",
+      "description": "OS #1044 - Troca Óleo Motul + Filtros + Oxi - Civic G10",
+      "date": "2026-11-03T11:20:00.000Z"
+    },
+    {
+      "id": "tr-04",
+      "type": "INCOME",
+      "category": "Serviços (Mão de Obra)",
+      "amount": 2480.00,
+      "method": "PIX",
+      "description": "OS #1040 - Kit Correia Dentada + Bomba d'Água - Renegade",
+      "date": "2026-11-02T15:10:00.000Z"
+    },
+    {
+      "id": "tr-05",
+      "type": "INCOME",
+      "category": "Serviços (Mão de Obra)",
+      "amount": 3890.00,
+      "method": "Cartão de Crédito",
+      "description": "OS #1039 - Amortecedores Turbogás + Alinhamento 3D - Toro",
+      "date": "2026-11-01T17:00:00.000Z"
+    },
+    {
+      "id": "tr-06",
+      "type": "INCOME",
+      "category": "Diagnóstico Scanner",
+      "amount": 1650.00,
+      "method": "Cartão de Crédito",
+      "description": "OS #1038 - Scanner Diagnóstico + Sonda Lambda - BMW 320i",
+      "date": "2026-10-31T10:15:00.000Z"
+    },
+    {
+      "id": "tr-07",
+      "type": "INCOME",
+      "category": "Revisão Preventiva",
+      "amount": 1950.00,
+      "method": "Cartão de Débito",
+      "description": "OS #1036 - Diálise Câmbio Automático 8L ATF - Creta",
+      "date": "2026-10-30T14:00:00.000Z"
+    },
+    {
+      "id": "tr-08",
+      "type": "INCOME",
+      "category": "Serviços (Mão de Obra)",
+      "amount": 4200.00,
+      "method": "Cartão de Crédito",
+      "description": "OS #1035 - Retífica de Cabeçote + Junta Aço - Hilux SRX",
+      "date": "2026-10-29T18:30:00.000Z"
+    },
+    {
+      "id": "tr-09",
+      "type": "EXPENSE",
+      "category": "Aluguel",
+      "amount": 6500.00,
+      "method": "Outro",
+      "description": "Aluguel Galpão Matriz Oficina Kaen - Mês Atual",
+      "date": "2026-11-01T09:00:00.000Z"
+    },
+    {
+      "id": "tr-10",
+      "type": "EXPENSE",
+      "category": "Compra de Peças",
+      "amount": 4820.00,
+      "method": "Outro",
+      "description": "Distribuidora Pellegrino Auto Peças - Reposição Peças",
+      "date": "2026-11-02T10:30:00.000Z"
+    },
+    {
+      "id": "tr-11",
+      "type": "EXPENSE",
+      "category": "Compra de Peças",
+      "amount": 2850.00,
+      "method": "PIX",
+      "description": "Motul do Brasil - Lote Lubrificantes Sintéticos 5W30/5W40",
+      "date": "2026-11-03T14:15:00.000Z"
+    },
+    {
+      "id": "tr-12",
+      "type": "EXPENSE",
+      "category": "Energia & Água",
+      "amount": 1480.00,
+      "method": "Outro",
+      "description": "Energia Elétrica Trifásica Elektro (Compressores e Elevadores)",
+      "date": "2026-11-03T16:00:00.000Z"
+    },
+    {
+      "id": "tr-13",
+      "type": "EXPENSE",
+      "category": "Salários & Comissões",
+      "amount": 5400.00,
+      "method": "PIX",
+      "description": "Adiantamento Salarial e Comissões Técnicos Oficina",
+      "date": "2026-10-30T17:30:00.000Z"
+    },
+    {
+      "id": "tr-14",
+      "type": "EXPENSE",
+      "category": "Ferramentas & Equipamentos",
+      "amount": 650.00,
+      "method": "Cartão de Crédito",
+      "description": "Licença Mensal Scanner Diagnóstico Autel MaxiSys Ultra",
+      "date": "2026-10-28T11:00:00.000Z"
+    },
+    {
+      "id": "tr-15",
+      "type": "EXPENSE",
+      "category": "Diversos",
+      "amount": 420.00,
+      "method": "PIX",
+      "description": "Insumos de Limpeza, Desengraxante Industrial e EPIs",
+      "date": "2026-10-29T15:20:00.000Z"
+    },
+    {
+      "id": "tr-16",
+      "type": "EXPENSE",
+      "category": "Internet & Telefonia",
+      "amount": 290.00,
+      "method": "Cartão de Crédito",
+      "description": "Internet Fibra Óptica Dedicada 1Gbps + Telefonia Kaen",
+      "date": "2026-10-27T08:45:00.000Z"
+    }
+  ],
+  "kaenpro_rafael_orders": [
+    {
+      "id": "os-1042",
+      "osNumber": "1042",
+      "clientId": "cli-01",
+      "clientName": "Dr. Roberto Guimarães",
+      "clientPhone": "(13) 99781-4422",
+      "vehicleId": "veh-01",
+      "vehiclePlate": "BRA2E19",
+      "vehicleModel": "Audi A4 2.0 TFSI 2021",
+      "vehicleKm": "48200",
+      "problem": "Trepidar ao frear em alta velocidade e chiado metálico dianteiro",
+      "items": [
+        { "id": "it-1", "description": "Jogo Pastilhas Brembo Cerâmica Diant.", "quantity": 1, "unitPrice": 420.00, "type": "PART" },
+        { "id": "it-2", "description": "Par Discos Ventilados Fremax Diant.", "quantity": 1, "unitPrice": 650.00, "type": "PART" },
+        { "id": "it-3", "description": "Fluido de Freio Motul DOT 5.1 Sintético", "quantity": 2, "unitPrice": 85.00, "type": "PART" },
+        { "id": "it-4", "description": "Sangria Eletrônica ABS + Teste de Frenagem", "quantity": 1, "unitPrice": 380.00, "type": "SERVICE" }
+      ],
+      "laborValue": 1580.00,
+      "discount": 0,
+      "totalValue": 3200.00,
+      "status": "Entregue",
+      "paymentStatus": "Pago",
+      "paymentMethod": "PIX",
+      "mechanicResponsible": "Eduardo Maciel",
+      "budgetApproved": true,
+      "createdAt": "2026-11-04T09:30:00.000Z",
+      "updatedAt": "2026-11-04T17:30:00.000Z"
+    },
+    {
+      "id": "os-1043",
+      "osNumber": "1043",
+      "clientId": "cli-02",
+      "clientName": "Marcelo Vasconcelos",
+      "clientPhone": "(13) 99654-8833",
+      "vehicleId": "veh-02",
+      "vehiclePlate": "KAE4G88",
+      "vehicleModel": "VW Golf GTI 2.0 TSI 2020",
+      "vehicleKm": "62000",
+      "problem": "Falha de ignição em aceleração plena, luz de injeção piscando",
+      "items": [
+        { "id": "it-5", "description": "Jogo Velas NGK Laser Iridium", "quantity": 1, "unitPrice": 360.00, "type": "PART" },
+        { "id": "it-6", "description": "Óleo Motul 8100 5W40 Sintético (6L)", "quantity": 6, "unitPrice": 98.00, "type": "PART" },
+        { "id": "it-7", "description": "Filtro de Óleo Mann W712", "quantity": 1, "unitPrice": 55.00, "type": "PART" },
+        { "id": "it-8", "description": "Descarbonização Admissão Walnut Blasting", "quantity": 1, "unitPrice": 1850.00, "type": "SERVICE" }
+      ],
+      "laborValue": 1867.00,
+      "discount": 0,
+      "totalValue": 4720.00,
+      "status": "Entregue",
+      "paymentStatus": "Pago",
+      "paymentMethod": "Cartão de Crédito",
+      "mechanicResponsible": "Rafael Kaen",
+      "budgetApproved": true,
+      "createdAt": "2026-11-03T10:00:00.000Z",
+      "updatedAt": "2026-11-04T16:00:00.000Z"
+    },
+    {
+      "id": "os-1044",
+      "osNumber": "1044",
+      "clientId": "cli-03",
+      "clientName": "Camila Siqueira",
+      "clientPhone": "(13) 99712-3344",
+      "vehicleId": "veh-03",
+      "vehiclePlate": "REX7F32",
+      "vehicleModel": "Honda Civic Touring 1.5 Turbo 2022",
+      "vehicleKm": "39500",
+      "problem": "Revisão periódica programada e cheiro no ar-condicionado",
+      "items": [
+        { "id": "it-9", "description": "Óleo Mobil Super 5W30 (4L)", "quantity": 4, "unitPrice": 74.00, "type": "PART" },
+        { "id": "it-10", "description": "Filtro de Óleo Mann", "quantity": 1, "unitPrice": 55.00, "type": "PART" },
+        { "id": "it-11", "description": "Filtro de Ar Motor Tecfil", "quantity": 1, "unitPrice": 68.00, "type": "PART" },
+        { "id": "it-12", "description": "Higienização Oxi-sanitária + Filtro Cabine", "quantity": 1, "unitPrice": 220.00, "type": "SERVICE" }
+      ],
+      "laborValue": 1211.00,
+      "discount": 0,
+      "totalValue": 1850.00,
+      "status": "Pronto",
+      "paymentStatus": "Pago",
+      "paymentMethod": "PIX",
+      "mechanicResponsible": "Thiago Rover",
+      "budgetApproved": true,
+      "createdAt": "2026-11-03T08:30:00.000Z",
+      "updatedAt": "2026-11-03T18:00:00.000Z"
+    },
+    {
+      "id": "os-1045",
+      "osNumber": "1045",
+      "clientId": "cli-04",
+      "clientName": "Fernando Alencar",
+      "clientPhone": "(13) 99805-6677",
+      "vehicleId": "veh-04",
+      "vehiclePlate": "JEP9H41",
+      "vehicleModel": "Jeep Compass Longitude Diesel 2022",
+      "vehicleKm": "68000",
+      "problem": "Troca preventiva da correia dentada e vazamento leve no arrefecimento",
+      "items": [
+        { "id": "it-13", "description": "Kit Correia Dentada + Tensor Gates", "quantity": 1, "unitPrice": 510.00, "type": "PART" },
+        { "id": "it-14", "description": "Bomba d'Água Indisa Metal", "quantity": 1, "unitPrice": 275.00, "type": "PART" },
+        { "id": "it-15", "description": "Aditivo Radiador Tirreno Orgânico (3L)", "quantity": 3, "unitPrice": 52.00, "type": "PART" }
+      ],
+      "laborValue": 1539.00,
+      "discount": 0,
+      "totalValue": 2480.00,
+      "status": "Em serviço",
+      "paymentStatus": "Pendente",
+      "mechanicResponsible": "Eduardo Maciel",
+      "budgetApproved": true,
+      "createdAt": "2026-11-04T13:00:00.000Z",
+      "updatedAt": "2026-11-04T14:30:00.000Z"
+    },
+    {
+      "id": "os-1046",
+      "osNumber": "1046",
+      "clientId": "cli-05",
+      "clientName": "Beatriz Fontes",
+      "clientPhone": "(13) 99677-2211",
+      "vehicleId": "veh-05",
+      "vehiclePlate": "BWM3I20",
+      "vehicleModel": "BMW 320i M Sport 2023",
+      "vehicleKm": "27000",
+      "problem": "Luz de injeção amarela acesa no painel, consumo elevado",
+      "items": [
+        { "id": "it-16", "description": "Scanner Diagnóstico Avançado Autel", "quantity": 1, "unitPrice": 350.00, "type": "SERVICE" },
+        { "id": "it-17", "description": "Sonda Lambda Banda Larga Bosch", "quantity": 1, "unitPrice": 850.00, "type": "PART" }
+      ],
+      "laborValue": 450.00,
+      "discount": 0,
+      "totalValue": 1650.00,
+      "status": "Aguardando aprovação",
+      "paymentStatus": "Pendente",
+      "mechanicResponsible": "Rafael Kaen",
+      "budgetApproved": false,
+      "createdAt": "2026-11-05T08:10:00.000Z",
+      "updatedAt": "2026-11-05T09:00:00.000Z"
+    },
+    {
+      "id": "os-1047",
+      "osNumber": "1047",
+      "clientId": "cli-06",
+      "clientName": "Agropecuária Vale do Ribeira",
+      "clientPhone": "(13) 99633-9900",
+      "vehicleId": "veh-06",
+      "vehiclePlate": "HIL5X99",
+      "vehicleModel": "Toyota Hilux SRX 2.8 4x4 2023",
+      "vehicleKm": "85000",
+      "problem": "Revisão geral de suspensão reforçada, 4 amortecedores e pastilhas",
+      "items": [
+        { "id": "it-18", "description": "Amortecedores Dianteiros Turbogás Cofap", "quantity": 1, "unitPrice": 920.00, "type": "PART" },
+        { "id": "it-19", "description": "Amortecedores Traseiros Reforçados Cofap", "quantity": 1, "unitPrice": 860.00, "type": "PART" },
+        { "id": "it-20", "description": "Pastilhas Dianteiras e Lonas Traseiras", "quantity": 1, "unitPrice": 680.00, "type": "PART" },
+        { "id": "it-21", "description": "Mão de Obra Suspensão Completa e Geometria 3D", "quantity": 1, "unitPrice": 1480.00, "type": "SERVICE" }
+      ],
+      "laborValue": 1480.00,
+      "discount": 0,
+      "totalValue": 3940.00,
+      "status": "Entregue",
+      "paymentStatus": "Atrasado",
+      "mechanicResponsible": "Thiago Rover",
+      "budgetApproved": true,
+      "createdAt": "2026-10-24T10:00:00.000Z",
+      "updatedAt": "2026-10-25T16:00:00.000Z"
+    }
+  ],
+  "kaenpro_rafael_clients": [
+    {
+      "id": "cli-01",
+      "name": "Dr. Roberto Guimarães",
+      "phone": "(13) 99781-4422",
+      "document": "283.914.858-12",
+      "address": "Av. Marginal Castelo Branco, 1420 - Registro/SP",
+      "observations": "Cliente exigente com peças genuínas/performance",
+      "createdAt": "2024-02-10T10:00:00.000Z"
+    },
+    {
+      "id": "cli-02",
+      "name": "Marcelo Vasconcelos",
+      "phone": "(13) 99654-8833",
+      "document": "391.042.718-45",
+      "address": "Rua Tamekichi Takano, 340 - Registro/SP",
+      "observations": "Entusiasta de performance e track-day",
+      "createdAt": "2024-03-05T14:00:00.000Z"
+    },
+    {
+      "id": "cli-03",
+      "name": "Camila Siqueira",
+      "phone": "(13) 99712-3344",
+      "document": "418.902.138-09",
+      "address": "Rua José Antônio de Campos, 88 - Registro/SP",
+      "observations": "Revisões preventivas rigorosamente em dia",
+      "createdAt": "2024-04-12T09:30:00.000Z"
+    },
+    {
+      "id": "cli-04",
+      "name": "Fernando Alencar",
+      "phone": "(13) 99805-6677",
+      "document": "172.849.208-61",
+      "address": "Rodovia BR-116 Km 442 - Registro/SP",
+      "observations": "Uso rodoviário frequente",
+      "createdAt": "2024-05-18T16:20:00.000Z"
+    },
+    {
+      "id": "cli-05",
+      "name": "Beatriz Fontes",
+      "phone": "(13) 99677-2211",
+      "document": "502.183.948-33",
+      "address": "Rua Pres. Getúlio Vargas, 210 - Registro/SP",
+      "observations": "Veículo seminovo, priorizar garantia",
+      "createdAt": "2024-06-22T11:10:00.000Z"
+    },
+    {
+      "id": "cli-06",
+      "name": "Agropecuária Vale do Ribeira",
+      "phone": "(13) 99633-9900",
+      "document": "12.839.401/0001-92",
+      "address": "Estrada Rural Rio Bonito, S/N - Registro/SP",
+      "observations": "Frota de caminhonetes de campo, pagamento a faturamento quinzenal",
+      "createdAt": "2024-01-15T08:00:00.000Z"
+    }
+  ],
+  "kaenpro_rafael_vehicles": [
+    {
+      "id": "veh-01",
+      "clientId": "cli-01",
+      "model": "Audi A4 2.0 TFSI",
+      "brand": "Audi",
+      "year": "2021",
+      "plate": "BRA2E19",
+      "km": 48200,
+      "engine": "2.0 Turbo 190cv",
+      "fuel": "Gasolina",
+      "color": "Cinza Daytona"
+    },
+    {
+      "id": "veh-02",
+      "clientId": "cli-02",
+      "model": "Golf GTI 2.0 TSI",
+      "brand": "Volkswagen",
+      "year": "2020",
+      "plate": "KAE4G88",
+      "km": 62000,
+      "engine": "2.0 TSI EA888 Gen 3",
+      "fuel": "Gasolina",
+      "color": "Branco Puro"
+    },
+    {
+      "id": "veh-03",
+      "clientId": "cli-03",
+      "model": "Civic Touring 1.5 Turbo",
+      "brand": "Honda",
+      "year": "2022",
+      "plate": "REX7F32",
+      "km": 39500,
+      "engine": "1.5 VTEC Turbo",
+      "fuel": "Gasolina",
+      "color": "Preto Cristal"
+    },
+    {
+      "id": "veh-04",
+      "clientId": "cli-04",
+      "model": "Compass Longitude 2.0 TD350",
+      "brand": "Jeep",
+      "year": "2022",
+      "plate": "JEP9H41",
+      "km": 68000,
+      "engine": "2.0 Multijet Diesel",
+      "fuel": "Diesel S10",
+      "color": "Prata Billet"
+    },
+    {
+      "id": "veh-05",
+      "clientId": "cli-05",
+      "model": "BMW 320i M Sport",
+      "brand": "BMW",
+      "year": "2023",
+      "plate": "BWM3I20",
+      "km": 27000,
+      "engine": "2.0 TwinPower B48",
+      "fuel": "Flex",
+      "color": "Azul Portimão"
+    },
+    {
+      "id": "veh-06",
+      "clientId": "cli-06",
+      "model": "Hilux SRX 2.8 4x4",
+      "brand": "Toyota",
+      "year": "2023",
+      "plate": "HIL5X99",
+      "km": 85000,
+      "engine": "2.8 D-4D 204cv",
+      "fuel": "Diesel S10",
+      "color": "Prata Névoa"
+    }
+  ],
+  "kaenpro_rafael_admin_invoices": [
+    {
+      "id": "inv-1042",
+      "osNumber": "1042",
+      "client": "Dr. Roberto Guimarães",
+      "value": 3200.00,
+      "status": "AUTENTICADA",
+      "reason": "NF-e #001042 Autorizada SEFAZ-SP Chave 3526-1112-8394-0100-0192-5500-1000-0104-2100",
+      "timestamp": "2026-11-04T17:35:00.000Z",
+      "resolved": true
+    },
+    {
+      "id": "inv-1043",
+      "osNumber": "1043",
+      "client": "Marcelo Vasconcelos",
+      "value": 4720.00,
+      "status": "AUTENTICADA",
+      "reason": "NF-e #001043 Autorizada SEFAZ-SP Chave 3526-1112-8394-0100-0192-5500-1000-0104-3100",
+      "timestamp": "2026-11-04T16:10:00.000Z",
+      "resolved": true
+    },
+    {
+      "id": "inv-1044",
+      "osNumber": "1044",
+      "client": "Camila Siqueira",
+      "value": 1850.00,
+      "status": "AUTENTICADA",
+      "reason": "NF-e #001044 Autorizada SEFAZ-SP Chave 3526-1112-8394-0100-0192-5500-1000-0104-4100",
+      "timestamp": "2026-11-03T18:15:00.000Z",
+      "resolved": true
+    },
+    {
+      "id": "inv-1045",
+      "osNumber": "1045",
+      "client": "Fernando Alencar",
+      "value": 2480.00,
+      "status": "PENDENTE_VALIDACAO",
+      "reason": "Ordem em finalização de serviço na pista, aguardando fechamento",
+      "timestamp": "2026-11-04T14:30:00.000Z",
+      "resolved": false
+    },
+    {
+      "id": "inv-1047",
+      "osNumber": "1047",
+      "client": "Agropecuária Vale do Ribeira",
+      "value": 3940.00,
+      "status": "AUTENTICADA",
+      "reason": "NF-e #001039 Faturada para 15 DDL - Cobrança em Aberto",
+      "timestamp": "2026-10-25T16:05:00.000Z",
+      "resolved": true
+    }
+  ]
+}
